@@ -32,7 +32,7 @@ cd QuackQuackScrape
 3. simply run the example test:
 
 ```php
-require_once "runExamples.php";
+php runExamples.php;
 ```
 
 ## Requirements
