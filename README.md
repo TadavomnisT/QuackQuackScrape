@@ -1,7 +1,8 @@
 # QuackQuackScrape
 Simple php scraper for DuckDuckGo web search.
 
-<img width="1914" height="1253" alt="QuackQuackScrape" src="https://github.com/user-attachments/assets/d7569a2a-9989-4a33-8dfe-1d31effc12fd" />
+<img width="2246" height="1254" alt="QuackQuackScrape" src="https://github.com/user-attachments/assets/ce2f6cb9-4831-4c53-9020-8b8ccc9f8ccd" />
+
 
 ## Disclaimer
 Scraping search results from modern search engines is a challenging task due to `js protection`, `WAFs`, `CAPTCHAs` and limiting robot behaviors. This class fakes `User-Agent` or switches `IP` by using proxies (optional) to bypass limitations and fetches data from raw html. As I personally support and respect DuckDuckGo Project, I should make this clear that: 
