@@ -38,7 +38,7 @@ php runExamples.php;
 ## Requirements
 
 - PHP 7.0+
-- cURL extension (usualy pre-installed)
+- cURL extension (usually pre-installed)
 
 ## Quick Start
 
